@@ -1,5 +1,5 @@
 *Nota: Actualmente se encuentra en construcción.*
-#esto es una prueba para el ejercicio 4 
+esto es una prueba para el ejercicio 4 
 ## Tabla de contenidos
 1. [Acerca del FAQ](#acerca)  
 2. [Disclaimer](#disclaimer)
